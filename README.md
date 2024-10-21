@@ -1,0 +1,1 @@
+# smart-crop-disease-Detection-System
